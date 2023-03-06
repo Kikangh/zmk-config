@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: kikangh
-      revision: Sofle-mouse-HM-tweaks-2023
+      revision: Sofle-mouse-HMtweaks
       import: app/west.yml
   self:
     path: config
