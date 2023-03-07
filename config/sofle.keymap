@@ -26,7 +26,7 @@
 
 #include "combos.dtsi" // This include **has** to be made **after** the layers' define, else it won't compile.
 
-// &kscan0 { debounce-period = <17>; };
+&kscan0 { debounce-period = <17>; };
 
 // Mouse specific config
 &mmv {    
